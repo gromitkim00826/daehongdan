@@ -1,4 +1,4 @@
-# 🔥 SafeVision - 지능형 통합 관제 시스템
+# 🔥 SafeVision - 지능형 통합 화재 관제 시스템
 
 ![SafeVision](.github/images/대홍단감자.jpg)
 
